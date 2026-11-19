@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software or benchmark summary data, please cite it using this metadata."
+title: "Code and benchmark summary data for: Linear-Time Noise-Debiased Dynamic Patching and Calm-Retaining Drift Adaptation for Nonstationary Streams"
+version: "1.0.0"
+date-released: "2026-11-18"
+license: "MIT"
+authors:
+  - family-names: "Coutinho"
+    given-names: "Felipe Provezano"
+    orcid: "https://orcid.org/0000-0001-7206-5856"
+repository-code: "https://github.com/provezano/linear-time-patching-drift"
