@@ -20,7 +20,3 @@ python3 code/verify_proofs.py
 ## Repository
 
 <https://github.com/provezano/linear-time-patching-drift>
-
-## Repository
-
-<https://github.com/provezano/linear-time-patching-drift>
